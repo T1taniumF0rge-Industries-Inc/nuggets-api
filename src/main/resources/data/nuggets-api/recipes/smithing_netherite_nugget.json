@@ -1,8 +1,14 @@
 {
-  "type": "minecraft:smithing",
-  "template": "minecraft:netherite_upgrade_smithing_template",
-  "base": "nuggets-api:diamond_nugget",
-  "addition": "minecraft:air",
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  },
+  "base": {
+    "item": "nuggets-api:diamond_nugget"
+  },
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
   "result": {
     "item": "nuggets-api:netherite_nugget",
     "count": 9
