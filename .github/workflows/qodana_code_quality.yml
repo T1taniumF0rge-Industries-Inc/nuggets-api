@@ -1,7 +1,4 @@
-#-------------------------------------------------------------------------------#
-#            Discover all capabilities of Qodana in our documentation           #
-#             https://www.jetbrains.com/help/qodana/about-qodana.html           #
-#-------------------------------------------------------------------------------#
+# Copyright (c) 2026 The T1taniumF0rge Industries® (Inc.)
 
 name: Qodana
 on:
@@ -9,7 +6,7 @@ on:
   pull_request:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   qodana:
