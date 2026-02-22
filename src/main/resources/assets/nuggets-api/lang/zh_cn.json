@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "金粒模板",
+  "item.nuggets-api.wood_nugget": "木质碎片",
+  "item.nuggets-api.stone_nugget": "小石子",
+  "item.nuggets-api.diamond_nugget": "钻石碎屑",
+  "item.nuggets-api.emerald_nugget": "绿宝石碎块",
+  "item.nuggets-api.netherite_nugget": "下界合金粒",
+  "item.nuggets-api.lapis_nugget": "青金石碎块",
+  "item.nuggets-api.quartz_nugget": "石英碎片",
+  "item.nuggets-api.coal_nugget": "小煤块",
+  "item.nuggets-api.amethyst_nugget": "紫水晶碎屑",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "小型锻造模板"
+}

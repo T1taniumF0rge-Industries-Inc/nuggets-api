@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "Шаблон самородка",
+  "item.nuggets-api.wood_nugget": "Дерев'яна Щепа",
+  "item.nuggets-api.stone_nugget": "Камінь Галька",
+  "item.nuggets-api.diamond_nugget": "Алмазний осколок",
+  "item.nuggets-api.emerald_nugget": "Смарагдовий шматок",
+  "item.nuggets-api.netherite_nugget": "Самородок нетериту",
+  "item.nuggets-api.lapis_nugget": "Ляпіс Чанк",
+  "item.nuggets-api.quartz_nugget": "Осколок кварцу",
+  "item.nuggets-api.coal_nugget": "Куска вугілля",
+  "item.nuggets-api.amethyst_nugget": "Кристал аметист",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "Малий ковальський шаблон"
+}

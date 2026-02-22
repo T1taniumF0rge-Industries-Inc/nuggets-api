@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "Nugget šablonas",
+  "item.nuggets-api.wood_nugget": "Medienos drožlė",
+  "item.nuggets-api.stone_nugget": "Akmeninis akmenukas",
+  "item.nuggets-api.diamond_nugget": "Deimantų šukė",
+  "item.nuggets-api.emerald_nugget": "Smaragdo gabaliukas",
+  "item.nuggets-api.netherite_nugget": "Netherite Nugget",
+  "item.nuggets-api.lapis_nugget": "Lapis Chunk",
+  "item.nuggets-api.quartz_nugget": "Kvarco šukė",
+  "item.nuggets-api.coal_nugget": "Anglies luitas",
+  "item.nuggets-api.amethyst_nugget": "Ametisto kristalas",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "Mažas kalimo šablonas"
+}

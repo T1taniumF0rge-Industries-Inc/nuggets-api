@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "Nugget შაბლონი",
+  "item.nuggets-api.wood_nugget": "ხის ნატეხი",
+  "item.nuggets-api.stone_nugget": "ქვის კენჭი",
+  "item.nuggets-api.diamond_nugget": "Diamond Shard",
+  "item.nuggets-api.emerald_nugget": "ზურმუხტის ნაჭერი",
+  "item.nuggets-api.netherite_nugget": "Netherite Nugget",
+  "item.nuggets-api.lapis_nugget": "ლაპის ჩანკი",
+  "item.nuggets-api.quartz_nugget": "კვარცის შარდი",
+  "item.nuggets-api.coal_nugget": "ქვანახშირის სიმსივნე",
+  "item.nuggets-api.amethyst_nugget": "ამეთვისტო კრისტალი",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "მცირე სმითინგის შაბლონი"
+}

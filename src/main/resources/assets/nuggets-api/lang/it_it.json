@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "Modello di pepita",
+  "item.nuggets-api.wood_nugget": "Scheggia di legno",
+  "item.nuggets-api.stone_nugget": "Ciottolo di pietra",
+  "item.nuggets-api.diamond_nugget": "Frammento di diamante",
+  "item.nuggets-api.emerald_nugget": "Pezzo di smeraldo",
+  "item.nuggets-api.netherite_nugget": "Pepita di Netherite",
+  "item.nuggets-api.lapis_nugget": "Pezzo di lapislazzuli",
+  "item.nuggets-api.quartz_nugget": "Frammento di quarzo",
+  "item.nuggets-api.coal_nugget": "Grumo di carbone",
+  "item.nuggets-api.amethyst_nugget": "Cristallo di ametista",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "Piccolo modello di forgiatura"
+}

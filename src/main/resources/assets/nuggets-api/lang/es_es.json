@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "Plantilla de pepita",
+  "item.nuggets-api.wood_nugget": "Astilla de madera",
+  "item.nuggets-api.stone_nugget": "Guijarro de piedra",
+  "item.nuggets-api.diamond_nugget": "Esquirla de diamante",
+  "item.nuggets-api.emerald_nugget": "Fragmento de esmeralda",
+  "item.nuggets-api.netherite_nugget": "Pepita de inframundita",
+  "item.nuggets-api.lapis_nugget": "Fragmento de lapislázuli",
+  "item.nuggets-api.quartz_nugget": "Esquirla de cuarzo",
+  "item.nuggets-api.coal_nugget": "Trozo de carbón",
+  "item.nuggets-api.amethyst_nugget": "Cristal de amatista",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "Plantilla de herrería pequeña"
+}

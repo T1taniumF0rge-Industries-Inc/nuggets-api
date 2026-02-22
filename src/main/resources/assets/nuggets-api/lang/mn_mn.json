@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "Nugget загвар",
+  "item.nuggets-api.wood_nugget": "Модны хагархай",
+  "item.nuggets-api.stone_nugget": "Чулуун хайрга",
+  "item.nuggets-api.diamond_nugget": "Алмазан хэлтэрхий",
+  "item.nuggets-api.emerald_nugget": "Маргад чулуу",
+  "item.nuggets-api.netherite_nugget": "Нетерит Наггет",
+  "item.nuggets-api.lapis_nugget": "Номин хэсэг",
+  "item.nuggets-api.quartz_nugget": "Кварцын хэлтэрхий",
+  "item.nuggets-api.coal_nugget": "Нүүрсний бөөгнөрөл",
+  "item.nuggets-api.amethyst_nugget": "Аметист болор",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "Жижиг Смитийн загвар"
+}

@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "Nugget veidne",
+  "item.nuggets-api.wood_nugget": "Koka šķemba",
+  "item.nuggets-api.stone_nugget": "Akmens olis",
+  "item.nuggets-api.diamond_nugget": "Dimanta skaidiņa",
+  "item.nuggets-api.emerald_nugget": "Smaragda gabals",
+  "item.nuggets-api.netherite_nugget": "Netherite Nugget",
+  "item.nuggets-api.lapis_nugget": "Lapis Čunks",
+  "item.nuggets-api.quartz_nugget": "Kvarca lauskas",
+  "item.nuggets-api.coal_nugget": "Ogļu gabals",
+  "item.nuggets-api.amethyst_nugget": "Ametista kristāls",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "Maza kalšanas veidne"
+}

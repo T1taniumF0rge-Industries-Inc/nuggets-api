@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "Plantilla Nugget",
+  "item.nuggets-api.wood_nugget": "Estella de fusta",
+  "item.nuggets-api.stone_nugget": "Pedra Pedra",
+  "item.nuggets-api.diamond_nugget": "Fragment de diamant",
+  "item.nuggets-api.emerald_nugget": "Tros de maragda",
+  "item.nuggets-api.netherite_nugget": "Pepita de Netherite",
+  "item.nuggets-api.lapis_nugget": "Trosset de Lapis",
+  "item.nuggets-api.quartz_nugget": "Fragment de quars",
+  "item.nuggets-api.coal_nugget": "Termoll de carbó",
+  "item.nuggets-api.amethyst_nugget": "Cristall d'ametista",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "Plantilla de forja petita"
+}

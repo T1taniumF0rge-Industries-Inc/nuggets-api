@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "เทมเพลตนักเก็ต",
+  "item.nuggets-api.wood_nugget": "เศษไม้",
+  "item.nuggets-api.stone_nugget": "หินกรวด",
+  "item.nuggets-api.diamond_nugget": "เศษเพชร",
+  "item.nuggets-api.emerald_nugget": "มรกตก้อน",
+  "item.nuggets-api.netherite_nugget": "นักเก็ตเนเธอไรต์",
+  "item.nuggets-api.lapis_nugget": "ลาพิส ชังก์",
+  "item.nuggets-api.quartz_nugget": "เศษควอตซ์",
+  "item.nuggets-api.coal_nugget": "ก้อนถ่านหิน",
+  "item.nuggets-api.amethyst_nugget": "อเมทิสต์คริสตัล",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "เทมเพลตการตีเหล็กขนาดเล็ก"
+}

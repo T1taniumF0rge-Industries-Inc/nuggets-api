@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "Molde de pepita",
+  "item.nuggets-api.wood_nugget": "Lasca de madeira",
+  "item.nuggets-api.stone_nugget": "Pedregulho",
+  "item.nuggets-api.diamond_nugget": "Lasca de diamante",
+  "item.nuggets-api.emerald_nugget": "Fragmento de esmeralda",
+  "item.nuggets-api.netherite_nugget": "Pepita de netherita",
+  "item.nuggets-api.lapis_nugget": "Fragmento de lápis-lazúli",
+  "item.nuggets-api.quartz_nugget": "Lasca de quartzo",
+  "item.nuggets-api.coal_nugget": "Pedaço de carvão",
+  "item.nuggets-api.amethyst_nugget": "Cristal de ametista",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "Molde pequeno de ferraria"
+}

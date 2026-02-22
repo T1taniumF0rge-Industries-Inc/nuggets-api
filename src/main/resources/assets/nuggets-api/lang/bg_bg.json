@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "Шаблон за самородно злато",
+  "item.nuggets-api.wood_nugget": "Дървена треска",
+  "item.nuggets-api.stone_nugget": "Каменно камъче",
+  "item.nuggets-api.diamond_nugget": "Diamond Shard",
+  "item.nuggets-api.emerald_nugget": "Изумрудено парче",
+  "item.nuggets-api.netherite_nugget": "Самородно нетерит",
+  "item.nuggets-api.lapis_nugget": "Лапис Чънк",
+  "item.nuggets-api.quartz_nugget": "Кварцов фрагмент",
+  "item.nuggets-api.coal_nugget": "Буца въглища",
+  "item.nuggets-api.amethyst_nugget": "Аметист Кристал",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "Малък ковашки шаблон"
+}

@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "ແມ່ແບບ Nugget",
+  "item.nuggets-api.wood_nugget": "ໄມ້ແຕກ",
+  "item.nuggets-api.stone_nugget": "ຫີນກ້ອນ",
+  "item.nuggets-api.diamond_nugget": "ເພັດສະໝອນ",
+  "item.nuggets-api.emerald_nugget": "Emerald Chuk",
+  "item.nuggets-api.netherite_nugget": "Netherite Nugget",
+  "item.nuggets-api.lapis_nugget": "Lapis Chunk",
+  "item.nuggets-api.quartz_nugget": "Quartz Shard",
+  "item.nuggets-api.coal_nugget": "ຖ່ານຫີນກ້ອນ",
+  "item.nuggets-api.amethyst_nugget": "ແກ້ວອາເມຕີດ",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "ແມ່ແບບ Smithing ຂະໜາດນ້ອຍ"
+}

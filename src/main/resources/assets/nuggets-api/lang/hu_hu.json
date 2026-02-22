@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "Nugget sablon",
+  "item.nuggets-api.wood_nugget": "Faszilánk",
+  "item.nuggets-api.stone_nugget": "Kőkavics",
+  "item.nuggets-api.diamond_nugget": "Gyémántszilánk",
+  "item.nuggets-api.emerald_nugget": "Smaragd darab",
+  "item.nuggets-api.netherite_nugget": "Netherite Nugget",
+  "item.nuggets-api.lapis_nugget": "Lapis Chunk",
+  "item.nuggets-api.quartz_nugget": "Kvarcszilánk",
+  "item.nuggets-api.coal_nugget": "Széndarab",
+  "item.nuggets-api.amethyst_nugget": "Ametiszt kristály",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "Kis Smithing sablon"
+}

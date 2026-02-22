@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "Predloga Nugget",
+  "item.nuggets-api.wood_nugget": "Lesni drobec",
+  "item.nuggets-api.stone_nugget": "Kamniti kamenček",
+  "item.nuggets-api.diamond_nugget": "Diamond Shard",
+  "item.nuggets-api.emerald_nugget": "Emerald Chunk",
+  "item.nuggets-api.netherite_nugget": "Netherite Nugget",
+  "item.nuggets-api.lapis_nugget": "Lapis Chunk",
+  "item.nuggets-api.quartz_nugget": "Quartz Shard",
+  "item.nuggets-api.coal_nugget": "Gruda premoga",
+  "item.nuggets-api.amethyst_nugget": "Ametist Kristal",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "Mala kovaška šablona"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:quartz" },
+    { "item": "nuggets-api:nugget_template" }
+  ],
+  "result": {
+    "item": "nuggets-api:quartz_nugget",
+    "count": 9
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "Șablon Nugget",
+  "item.nuggets-api.wood_nugget": "Așchie de lemn",
+  "item.nuggets-api.stone_nugget": "Pietriș de piatră",
+  "item.nuggets-api.diamond_nugget": "Ciob de diamant",
+  "item.nuggets-api.emerald_nugget": "Bucătură de smarald",
+  "item.nuggets-api.netherite_nugget": "Pepită de Netherite",
+  "item.nuggets-api.lapis_nugget": "Bucătură de lapis",
+  "item.nuggets-api.quartz_nugget": "Ciob de cuarț",
+  "item.nuggets-api.coal_nugget": "Bucătărie de Cărbune",
+  "item.nuggets-api.amethyst_nugget": "Cristal de ametist",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "Mic șablon de fierărie"
+}

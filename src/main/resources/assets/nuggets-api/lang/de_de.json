@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "Nugget-Vorlage",
+  "item.nuggets-api.wood_nugget": "Holzsplitter",
+  "item.nuggets-api.stone_nugget": "Kieselstein",
+  "item.nuggets-api.diamond_nugget": "Diamantsplitter",
+  "item.nuggets-api.emerald_nugget": "Smaragdfragment",
+  "item.nuggets-api.netherite_nugget": "Netherit-Nugget",
+  "item.nuggets-api.lapis_nugget": "Lapisfragment",
+  "item.nuggets-api.quartz_nugget": "Quarzsplitter",
+  "item.nuggets-api.coal_nugget": "Kohleklumpen",
+  "item.nuggets-api.amethyst_nugget": "Amethystsplitter",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "Kleine Schmiedevorlage"
+}

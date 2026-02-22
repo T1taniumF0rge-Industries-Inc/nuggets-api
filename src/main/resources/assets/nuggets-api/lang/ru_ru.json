@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "Шаблон самородка",
+  "item.nuggets-api.wood_nugget": "Щепа",
+  "item.nuggets-api.stone_nugget": "Камешек",
+  "item.nuggets-api.diamond_nugget": "Осколок алмаза",
+  "item.nuggets-api.emerald_nugget": "Изумрудный фрагмент",
+  "item.nuggets-api.netherite_nugget": "Кусочек незерита",
+  "item.nuggets-api.lapis_nugget": "Кусочек лазурита",
+  "item.nuggets-api.quartz_nugget": "Кварцевый осколок",
+  "item.nuggets-api.coal_nugget": "Угольный комок",
+  "item.nuggets-api.amethyst_nugget": "Кристалл аметиста",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "Малый кузнечный шаблон"
+}

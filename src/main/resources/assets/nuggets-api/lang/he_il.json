@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "תבנית נאגט",
+  "item.nuggets-api.wood_nugget": "רסיסי עץ",
+  "item.nuggets-api.stone_nugget": "אבן חלוק",
+  "item.nuggets-api.diamond_nugget": "שבר יהלום",
+  "item.nuggets-api.emerald_nugget": "אמרלד צ'אנק",
+  "item.nuggets-api.netherite_nugget": "נאגט נטרית",
+  "item.nuggets-api.lapis_nugget": "לפיס צ'אנק",
+  "item.nuggets-api.quartz_nugget": "רסיס קוורץ",
+  "item.nuggets-api.coal_nugget": "גוש פחם",
+  "item.nuggets-api.amethyst_nugget": "קריסטל אמטיסט",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "תבנית סמיתינג קטנה"
+}

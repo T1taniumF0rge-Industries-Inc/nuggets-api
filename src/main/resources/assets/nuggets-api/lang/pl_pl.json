@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "Szablon bryłkowy",
+  "item.nuggets-api.wood_nugget": "Odłamek drewna",
+  "item.nuggets-api.stone_nugget": "Kamienny Kamyk",
+  "item.nuggets-api.diamond_nugget": "Odłamek Diamentu",
+  "item.nuggets-api.emerald_nugget": "Kawałek szmaragdu",
+  "item.nuggets-api.netherite_nugget": "Bryłka Netherytu",
+  "item.nuggets-api.lapis_nugget": "Kawałek Lapisu",
+  "item.nuggets-api.quartz_nugget": "Odłamek kwarcu",
+  "item.nuggets-api.coal_nugget": "Bryła Węgla",
+  "item.nuggets-api.amethyst_nugget": "Ametystowy kryształ",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "Mały szablon kowalstwa"
+}

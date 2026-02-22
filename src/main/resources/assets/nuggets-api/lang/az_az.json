@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "Nugget Şablonu",
+  "item.nuggets-api.wood_nugget": "Taxta parçalayıcı",
+  "item.nuggets-api.stone_nugget": "Daş Çakıl",
+  "item.nuggets-api.diamond_nugget": "Diamond Shard",
+  "item.nuggets-api.emerald_nugget": "Zümrüd yığını",
+  "item.nuggets-api.netherite_nugget": "Netherite Nugget",
+  "item.nuggets-api.lapis_nugget": "Lapis yığını",
+  "item.nuggets-api.quartz_nugget": "Kvars parçası",
+  "item.nuggets-api.coal_nugget": "Kömür yığını",
+  "item.nuggets-api.amethyst_nugget": "Ametist kristal",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "Kiçik Smithing Şablonu"
+}

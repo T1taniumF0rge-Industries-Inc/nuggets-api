@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "Predložak Nugget",
+  "item.nuggets-api.wood_nugget": "Drveni iver",
+  "item.nuggets-api.stone_nugget": "Kameni oblutak",
+  "item.nuggets-api.diamond_nugget": "Krhotina dijamanta",
+  "item.nuggets-api.emerald_nugget": "Emerald Chunk",
+  "item.nuggets-api.netherite_nugget": "Grumen neterita",
+  "item.nuggets-api.lapis_nugget": "Lapis Chunk",
+  "item.nuggets-api.quartz_nugget": "Krhotina kvarca",
+  "item.nuggets-api.coal_nugget": "Gruda ugljena",
+  "item.nuggets-api.amethyst_nugget": "Ametist kristal",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "Mali kovački predložak"
+}

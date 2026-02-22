@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "Nuggeti mall",
+  "item.nuggets-api.wood_nugget": "Puidukild",
+  "item.nuggets-api.stone_nugget": "Kivikivi",
+  "item.nuggets-api.diamond_nugget": "Teemantkild",
+  "item.nuggets-api.emerald_nugget": "Smaragdi tükk",
+  "item.nuggets-api.netherite_nugget": "Netherite Nugget",
+  "item.nuggets-api.lapis_nugget": "Lapis tükk",
+  "item.nuggets-api.quartz_nugget": "Kvartsikild",
+  "item.nuggets-api.coal_nugget": "Söetükk",
+  "item.nuggets-api.amethyst_nugget": "Ametüsti kristall",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "Väike sepistamismall"
+}

@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "Šablóna Nugget",
+  "item.nuggets-api.wood_nugget": "Drevená trieska",
+  "item.nuggets-api.stone_nugget": "Kamenný kamienok",
+  "item.nuggets-api.diamond_nugget": "Diamantový črep",
+  "item.nuggets-api.emerald_nugget": "Emerald Chunk",
+  "item.nuggets-api.netherite_nugget": "Netherite Nugget",
+  "item.nuggets-api.lapis_nugget": "Lapis Chunk",
+  "item.nuggets-api.quartz_nugget": "Kremenný črep",
+  "item.nuggets-api.coal_nugget": "Hrudka uhlia",
+  "item.nuggets-api.amethyst_nugget": "Ametystový kryštál",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "Malá kováčska šablóna"
+}

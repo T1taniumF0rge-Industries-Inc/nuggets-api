@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "Nugget-malli",
+  "item.nuggets-api.wood_nugget": "Puun sirpale",
+  "item.nuggets-api.stone_nugget": "Kivikivi",
+  "item.nuggets-api.diamond_nugget": "Timantin sirpale",
+  "item.nuggets-api.emerald_nugget": "Smaragdipala",
+  "item.nuggets-api.netherite_nugget": "Netherite Nugget",
+  "item.nuggets-api.lapis_nugget": "Lapis Chunk",
+  "item.nuggets-api.quartz_nugget": "Kvartsin sirpale",
+  "item.nuggets-api.coal_nugget": "Hiilipala",
+  "item.nuggets-api.amethyst_nugget": "Ametisti kristalli",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "Pieni Smithing-malli"
+}

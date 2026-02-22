@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "Modelo Nugget",
+  "item.nuggets-api.wood_nugget": "Astilla de madeira",
+  "item.nuggets-api.stone_nugget": "Seixo de pedra",
+  "item.nuggets-api.diamond_nugget": "Frago de diamante",
+  "item.nuggets-api.emerald_nugget": "Pedazo Esmeralda",
+  "item.nuggets-api.netherite_nugget": "Pepita de Netherite",
+  "item.nuggets-api.lapis_nugget": "Lapis Chunk",
+  "item.nuggets-api.quartz_nugget": "Frago de cuarzo",
+  "item.nuggets-api.coal_nugget": "Terrón de carbón",
+  "item.nuggets-api.amethyst_nugget": "Cristal Amatista",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "Modelo de forxa pequena"
+}

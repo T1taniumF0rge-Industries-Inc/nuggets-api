@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "nuggets-api:small_netherite_upgrade_smithing_template" },
+    { "item": "nuggets-api:small_netherite_upgrade_smithing_template" },
+    { "item": "nuggets-api:small_netherite_upgrade_smithing_template" },
+    { "item": "nuggets-api:small_netherite_upgrade_smithing_template" },
+    { "item": "nuggets-api:small_netherite_upgrade_smithing_template" },
+    { "item": "nuggets-api:small_netherite_upgrade_smithing_template" },
+    { "item": "nuggets-api:small_netherite_upgrade_smithing_template" },
+    { "item": "nuggets-api:small_netherite_upgrade_smithing_template" },
+    { "item": "nuggets-api:small_netherite_upgrade_smithing_template" }
+  ],
+  "result": {
+    "item": "minecraft:netherite_upgrade_smithing_template",
+    "count": 1
+  }
+}

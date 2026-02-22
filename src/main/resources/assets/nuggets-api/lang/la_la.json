@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "Nugget Template",
+  "item.nuggets-api.wood_nugget": "Lignum Scisculum",
+  "item.nuggets-api.stone_nugget": "Lapis Pebble",
+  "item.nuggets-api.diamond_nugget": "Diamond Shard",
+  "item.nuggets-api.emerald_nugget": "Smaragdus Chunk",
+  "item.nuggets-api.netherite_nugget": "Netherite Nugget",
+  "item.nuggets-api.lapis_nugget": "Lapis Chunk",
+  "item.nuggets-api.quartz_nugget": "Vicus Shard",
+  "item.nuggets-api.coal_nugget": "Coal massam",
+  "item.nuggets-api.amethyst_nugget": "Amethystus Crystal",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "Parva Smithing Formula"
+}

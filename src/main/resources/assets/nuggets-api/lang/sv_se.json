@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "Nugget mall",
+  "item.nuggets-api.wood_nugget": "Träsplinter",
+  "item.nuggets-api.stone_nugget": "Sten Pebble",
+  "item.nuggets-api.diamond_nugget": "Diamantskärva",
+  "item.nuggets-api.emerald_nugget": "Emerald Chunk",
+  "item.nuggets-api.netherite_nugget": "Netherite Nugget",
+  "item.nuggets-api.lapis_nugget": "Lapis Chunk",
+  "item.nuggets-api.quartz_nugget": "Kvartsskärva",
+  "item.nuggets-api.coal_nugget": "Kolklump",
+  "item.nuggets-api.amethyst_nugget": "Ametistkristall",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "Liten Smithing-mall"
+}

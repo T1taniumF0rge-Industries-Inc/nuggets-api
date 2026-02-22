@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "Шаблон за грутка",
+  "item.nuggets-api.wood_nugget": "Дрвен фрагмент",
+  "item.nuggets-api.stone_nugget": "Камено камче",
+  "item.nuggets-api.diamond_nugget": "Дијамантско парченце",
+  "item.nuggets-api.emerald_nugget": "Емералд парче",
+  "item.nuggets-api.netherite_nugget": "Нетерит грутка",
+  "item.nuggets-api.lapis_nugget": "Лапис Чанк",
+  "item.nuggets-api.quartz_nugget": "Кварцно парченце",
+  "item.nuggets-api.coal_nugget": "Јаглен грутка",
+  "item.nuggets-api.amethyst_nugget": "Аметист Кристал",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "Шаблон за мал матирање"
+}

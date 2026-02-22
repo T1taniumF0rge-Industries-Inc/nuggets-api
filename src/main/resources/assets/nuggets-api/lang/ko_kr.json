@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "너겟 템플릿",
+  "item.nuggets-api.wood_nugget": "나무 파편",
+  "item.nuggets-api.stone_nugget": "돌 자갈",
+  "item.nuggets-api.diamond_nugget": "다이아몬드 파편",
+  "item.nuggets-api.emerald_nugget": "에메랄드 청크",
+  "item.nuggets-api.netherite_nugget": "네더라이트 덩어리",
+  "item.nuggets-api.lapis_nugget": "청금석 청크",
+  "item.nuggets-api.quartz_nugget": "석영 파편",
+  "item.nuggets-api.coal_nugget": "석탄 덩어리",
+  "item.nuggets-api.amethyst_nugget": "자수정 크리스탈",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "소형 대장간 템플릿"
+}

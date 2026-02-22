@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "Πρότυπο Nugget",
+  "item.nuggets-api.wood_nugget": "Θραύσμα ξύλου",
+  "item.nuggets-api.stone_nugget": "Πέτρινο βότσαλο",
+  "item.nuggets-api.diamond_nugget": "Θραύσμα διαμαντιού",
+  "item.nuggets-api.emerald_nugget": "Σμαραγδένιο κομμάτι",
+  "item.nuggets-api.netherite_nugget": "Netherite Nugget",
+  "item.nuggets-api.lapis_nugget": "Λάπις Τσάνκ",
+  "item.nuggets-api.quartz_nugget": "Θραύσμα χαλαζία",
+  "item.nuggets-api.coal_nugget": "Κομμάτι άνθρακα",
+  "item.nuggets-api.amethyst_nugget": "Κρύσταλλος Αμέθυστος",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "Πρότυπο Small Smithing"
+}

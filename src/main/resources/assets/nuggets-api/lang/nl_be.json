@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "Nugget-sjabloon",
+  "item.nuggets-api.wood_nugget": "Houtsplinter",
+  "item.nuggets-api.stone_nugget": "Steen Kiezel",
+  "item.nuggets-api.diamond_nugget": "Diamanten scherf",
+  "item.nuggets-api.emerald_nugget": "Smaragdgroene brok",
+  "item.nuggets-api.netherite_nugget": "Netherieten Nugget",
+  "item.nuggets-api.lapis_nugget": "Lapis-stuk",
+  "item.nuggets-api.quartz_nugget": "Kwarts scherf",
+  "item.nuggets-api.coal_nugget": "Kolenklontje",
+  "item.nuggets-api.amethyst_nugget": "Amethist Kristal",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "Kleine Smithing-sjabloon"
+}

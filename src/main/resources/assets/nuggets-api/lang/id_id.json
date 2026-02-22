@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "Templat Nugget",
+  "item.nuggets-api.wood_nugget": "Serpihan Kayu",
+  "item.nuggets-api.stone_nugget": "Kerikil Batu",
+  "item.nuggets-api.diamond_nugget": "Pecahan Berlian",
+  "item.nuggets-api.emerald_nugget": "Emerald Chunk",
+  "item.nuggets-api.netherite_nugget": "Nugget Belanda",
+  "item.nuggets-api.lapis_nugget": "Potongan Lapis",
+  "item.nuggets-api.quartz_nugget": "Pecahan Kuarsa",
+  "item.nuggets-api.coal_nugget": "Benjolan Batubara",
+  "item.nuggets-api.amethyst_nugget": "Kristal Kecubung",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "Templat Penempaan Kecil"
+}

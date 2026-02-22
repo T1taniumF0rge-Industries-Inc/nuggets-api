@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "Nugget Schabloun",
+  "item.nuggets-api.wood_nugget": "Holz Splitter",
+  "item.nuggets-api.stone_nugget": "Stone Pebble",
+  "item.nuggets-api.diamond_nugget": "Diamant Schärft",
+  "item.nuggets-api.emerald_nugget": "Smaragd Chunk",
+  "item.nuggets-api.netherite_nugget": "Netherite Nugget",
+  "item.nuggets-api.lapis_nugget": "Lapis Chunk",
+  "item.nuggets-api.quartz_nugget": "Quarz Shard",
+  "item.nuggets-api.coal_nugget": "Kuel Klump",
+  "item.nuggets-api.amethyst_nugget": "Amethyst Kristall",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "Kleng Smithing Schabloun"
+}

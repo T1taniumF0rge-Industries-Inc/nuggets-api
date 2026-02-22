@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "Modèle de pépite",
+  "item.nuggets-api.wood_nugget": "Éclat de bois",
+  "item.nuggets-api.stone_nugget": "Galet de pierre",
+  "item.nuggets-api.diamond_nugget": "Éclat de diamant",
+  "item.nuggets-api.emerald_nugget": "Morceau d'émeraude",
+  "item.nuggets-api.netherite_nugget": "Pépite de Netherite",
+  "item.nuggets-api.lapis_nugget": "Morceau de lapis",
+  "item.nuggets-api.quartz_nugget": "Éclat de quartz",
+  "item.nuggets-api.coal_nugget": "Morceau de charbon",
+  "item.nuggets-api.amethyst_nugget": "Cristal d'améthyste",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "Petit modèle de forge"
+}

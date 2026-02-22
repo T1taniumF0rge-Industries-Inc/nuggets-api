@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:stick" },
+    { "item": "nuggets-api:nugget_template" }
+  ],
+  "result": {
+    "item": "nuggets-api:wood_nugget",
+    "count": 9
+  }
+}

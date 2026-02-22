@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "塊の型",
+  "item.nuggets-api.wood_nugget": "木の破片",
+  "item.nuggets-api.stone_nugget": "石のつぶ",
+  "item.nuggets-api.diamond_nugget": "ダイヤモンドの欠片",
+  "item.nuggets-api.emerald_nugget": "エメラルドの破片",
+  "item.nuggets-api.netherite_nugget": "ネザライトの塊",
+  "item.nuggets-api.lapis_nugget": "ラピスラズリの破片",
+  "item.nuggets-api.quartz_nugget": "クォーツの欠片",
+  "item.nuggets-api.coal_nugget": "石炭の塊",
+  "item.nuggets-api.amethyst_nugget": "アメジストの欠片",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "小さな鍛冶型"
+}

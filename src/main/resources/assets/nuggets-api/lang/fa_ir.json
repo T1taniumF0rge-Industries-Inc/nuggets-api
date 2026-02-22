@@ -1,0 +1,13 @@
+{
+  "item.nuggets-api.nugget_template": "قالب Nugget",
+  "item.nuggets-api.wood_nugget": "خرده چوب",
+  "item.nuggets-api.stone_nugget": "سنگریزه",
+  "item.nuggets-api.diamond_nugget": "خرده الماس",
+  "item.nuggets-api.emerald_nugget": "تکه زمرد",
+  "item.nuggets-api.netherite_nugget": "Netherite Nugget",
+  "item.nuggets-api.lapis_nugget": "لاجورد چانک",
+  "item.nuggets-api.quartz_nugget": "کوارتز شارد",
+  "item.nuggets-api.coal_nugget": "توده زغال سنگ",
+  "item.nuggets-api.amethyst_nugget": "کریستال آمیتیست",
+  "item.nuggets-api.small_netherite_upgrade_smithing_template": "الگوی اسمیتینگ کوچک"
+}

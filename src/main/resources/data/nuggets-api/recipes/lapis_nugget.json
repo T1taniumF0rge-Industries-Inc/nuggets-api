@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:lapis" },
+    { "item": "nuggets-api:nugget_template" }
+  ],
+  "result": {
+    "item": "nuggets-api:lapis_nugget",
+    "count": 9
+  }
+}
