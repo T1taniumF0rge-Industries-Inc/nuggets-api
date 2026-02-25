@@ -3,7 +3,7 @@
 	"id": "nuggets-api",
 	"version": "${version}",
 	"name": "Nuggets API",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Nuggets API is a lightweight Fabric library that adds various nuggets and material fragments to the game!",
 	"authors": [
 		"Titan1um"
 	],
@@ -11,7 +11,7 @@
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/nuggets-api/icon.png",
 	"environment": "*",
 	"entrypoints": {
