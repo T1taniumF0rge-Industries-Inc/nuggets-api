@@ -43,6 +43,7 @@ public class ModItems {
     public static final Item QUARTZ_NUGGET = register("quartz_nugget");
     public static final Item COAL_NUGGET = register("coal_nugget");
     public static final Item AMETHYST_NUGGET = register("amethyst_nugget");
+    public static final Item REDSTONE_NUGGET = register("redstone_nugget");
 
     public static final Item SMALL_NETHERITE_UPGRADE_TEMPLATE =
             Registry.register(Registries.ITEM,

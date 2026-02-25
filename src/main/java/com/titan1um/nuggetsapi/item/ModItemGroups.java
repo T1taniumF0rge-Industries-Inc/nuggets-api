@@ -52,6 +52,7 @@ public class ModItemGroups {
                         entries.add(ModItems.QUARTZ_NUGGET);
                         entries.add(ModItems.COAL_NUGGET);
                         entries.add(ModItems.AMETHYST_NUGGET);
+                        entries.add(ModItems.REDSTONE_NUGGET);
                         entries.add(ModItems.SMALL_NETHERITE_UPGRADE_TEMPLATE);
                     })
                     .build()
