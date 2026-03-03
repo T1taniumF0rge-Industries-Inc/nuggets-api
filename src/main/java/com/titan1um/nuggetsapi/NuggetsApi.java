@@ -45,6 +45,10 @@ public class NuggetsApi implements ModInitializer {
 
 		// Modify loot tables
 		ModLootTableModifiers.modifyLootTables();
+		
+		// Register coal and wood nuggets for smelting
+		FuelRegistry.INSTANCE.add(ModItems.COAL_NUGGET, 177);
+  FuelRegistry.INSTANCE.add(ModItems.WOOD_NUGGET, 33);
 
 		LOGGER.info("Nuggets API loaded successfully!");
 	}
